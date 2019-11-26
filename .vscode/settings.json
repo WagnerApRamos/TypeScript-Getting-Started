@@ -13,7 +13,7 @@
         "npm-debug.log": true
     },
   
-    "editor.fontFamily": "Roboto Mono",
+    "editor.fontFamily": "",
     "editor.fontSize": 16,
     "editor.cursorBlinking": "solid",
     "editor.showUnused": false,
