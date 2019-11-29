@@ -12,8 +12,6 @@
         "**/.gitignore": true,
         "npm-debug.log": true
     },
-  
-    "editor.fontFamily": "",
     "editor.fontSize": 16,
     "editor.cursorBlinking": "solid",
     "editor.showUnused": false,
@@ -51,6 +49,8 @@
 
     "workbench.statusBar.visible": false,
   
-    "window.zoomLevel": 0
+    "window.zoomLevel": 0,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
      
   }
